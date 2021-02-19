@@ -23,7 +23,7 @@ function drawChart() {
 
     var options = {
         width: 10000,
-        height: 1000
+        height: 500
     };
 
     chart.draw(dataTable, options);
